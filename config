@@ -1,6 +1,6 @@
 {
   "ads_enabled": true,
-  "ad_provider": "admob",
+  "ad_provider": "facebook",
   "open_app_ads": {
     "enabled": true,
     "admob_id": "ca-app-pub-3940256099942544/9257395921",
