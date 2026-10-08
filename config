@@ -1,0 +1,20 @@
+{
+  "ads_enabled": true,
+  "ad_provider": "admob",
+  "open_app_ads": {
+    "enabled": true,
+    "admob_id": "ca-app-pub-3940256099942544/9257395921",
+    "facebook_id": "YOUR_FB_PLACEMENT_ID"
+  },
+  "interstitial_ads": {
+    "enabled": true,
+    "admob_id": "ca-app-pub-3940256099942544/1033173712",
+    "facebook_id": "VID_HD_16_9_15S_LINK#767350561574495_767351001574451",
+    "trigger_actions_count": 2
+  },
+  "native_ads": {
+    "enabled": true,
+    "admob_id": "ca-app-pub-3940256099942544/2247696110",
+    "facebook_id": "CAROUSEL_IMG_SQUARE_LINK#767350561574495_767351054907779"
+  }
+}
